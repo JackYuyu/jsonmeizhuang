@@ -1,0 +1,110 @@
+{
+    "code": "success",
+    "msg": "操作成功",
+    "data": {
+        "id": 7,
+        "name": "户外",
+        "subTags": [
+            {
+                "id": 801,
+                "tagName": "PEACEBIRD/太平鸟",
+                "imgUrl": "https://img.alicdn.com/imgextra/i1/3983220814/O1CN01eNPsw71HsqzC4TYnq_!!3983220814.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 811,
+                "tagName": "乔丹",
+                "imgUrl": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i1/2450056249/O1CN013voAYD1w25bNKaUqk_!!2450056249.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 821,
+                "tagName": "阿迪达斯",
+                "imgUrl": "https://img.alicdn.com/imgextra/i4/446338500/O1CN01HmE1rD2Cf39DoV0JI_!!0-item_pic.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 831,
+                "tagName": "HSTYLE/韩都衣舍",
+                "imgUrl": "https://img.alicdn.com/imgextra/https://img.alicdn.com/bao/uploaded/i3/2113775255/O1CN01LKNMNF1ogpsiAx92M_!!2113775255.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 841,
+                "tagName": "ZARA",
+                "imgUrl": "https://img.alicdn.com/imgextra/i3/2228361831/O1CN01qMbkPq1POdmjEiAcB_!!0-item_pic.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 851,
+                "tagName": "乐町",
+                "imgUrl": "https://img.alicdn.com/imgextra/i2/2175979437/O1CN01gbxboy2JaCGAXT0m2_!!0-item_pic.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 861,
+                "tagName": "ONLY",
+                "imgUrl": "https://img.alicdn.com/imgextra/i3/356060330/O1CN01UReBnt1EJBI8Oj8NJ-356060330.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 871,
+                "tagName": "Vero Moda",
+                "imgUrl": "https://img.alicdn.com/imgextra/i2/420567757/O1CN01GxUaL127AkqseDCmy_!!0-item_pic.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 881,
+                "tagName": "优衣库",
+                "imgUrl": "https://img.alicdn.com/imgextra/i1/196993935/O1CN015lUoNh1ewH6auiWZe_!!0-item_pic.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 891,
+                "tagName": "UR",
+                "imgUrl": "https://img.alicdn.com/imgextra/i3/2104668892/O1CN01l3127t2FYaPA5YC0q-2104668892.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 901,
+                "tagName": "H&M",
+                "imgUrl": "https://img.alicdn.com/imgextra/https://img.alicdn.com/bao/uploaded/i4/3676232520/O1CN015c8KkY1UUCedzkKpI_!!3676232520.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 911,
+                "tagName": "Lily/丽丽",
+                "imgUrl": "https://img.alicdn.com/imgextra/i3/1031105204/O1CN01hwCwQo1oJTiN1eBPd_!!0-item_pic.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 921,
+                "tagName": "one more",
+                "imgUrl": "https://img.alicdn.com/imgextra/i4/420567757/O1CN014w51Ao27Aks1Lmb0f_!!0-item_pic.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 931,
+                "tagName": "雅羊人",
+                "imgUrl": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i1/1579139371/O1CN01GOwTfK2J5y5tMixYN_!!1579139371.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 941,
+                "tagName": "伊芙丽",
+                "imgUrl": "https://img.alicdn.com/imgextra/https://img.alicdn.com/bao/uploaded/i2/641725918/O1CN014WfEIy1taUVRAQeJU-641725918.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 951,
+                "tagName": "戚米",
+                "imgUrl": "https://img.alicdn.com/imgextra/i1/1766047907/O1CN01fk0tF328HSGh8J5MG_!!0-item_pic.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 961,
+                "tagName": "森马",
+                "imgUrl": "https://img.alicdn.com/imgextra/https://img.alicdn.com/bao/uploaded/i3/397341302/O1CN01sXMLJl1LUMGYrBb5l_!!397341302.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 971,
+                "tagName": "bobowaltz",
+                "imgUrl": "https://img.alicdn.com/imgextra/https://img.alicdn.com/bao/uploaded/i1/759037096/O1CN01jAaP2P22I14RvRHB8_!!759037096.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 981,
+                "tagName": "PSALTER/诗篇",
+                "imgUrl": "https://img.alicdn.com/imgextra/https://img.alicdn.com/bao/uploaded/i1/651856143/O1CN01GtHMlQ1vFXcWdp3Lf-651856143.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 991,
+                "tagName": "恒源祥",
+                "imgUrl": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i2/908948999/O1CN01v39vFI2GLami3aWAf_!!908948999.jpg_400x400q90.jpg"
+            }
+        ]
+    }
+}
