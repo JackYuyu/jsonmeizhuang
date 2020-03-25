@@ -1227,26 +1227,6 @@
                 "imgUrl": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i4/3902857502/O1CN014jrbbI25HxsDv3n4N_!!3902857502.jpg_360x360Q90.jpg_.webp",
                 "price": "9.90"
             }
-        ],
-        "subTags": [{
-            "id": 2401,
-            "tagName": "AMORTALS/尔木萄",
-            "imgUrl": "https://img.alicdn.com/imgextra/i4/2207247391133/O1CN01RtTsRY1KExK9OK73l_!!0-item_pic.jpg_400x400q90.jpg"
-        },
-        {
-            "id": 2411,
-            "tagName": "健美创研",
-            "imgUrl": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i4/2206484494760/O1CN01wVp1mU1l27qoeBWk1_!!2206484494760.jpg_400x400q90.jpg"
-        },
-        {
-            "id": 2421,
-            "tagName": "Real Techniques",
-            "imgUrl": "https://img.alicdn.com/imgextra/i3/2526051849/O1CN01on3t3S1PWsuoO3l0v_!!0-item_pic.jpg_400x400q90.jpg"
-        },
-        {
-            "id": 2431,
-            "tagName": "花西子",
-            "imgUrl": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i1/3392536705/O1CN01CW5bU71zOwCzaNYhG_!!3392536705.jpg_400x400q90.jpg"
-        }]
+        ]
     }
 }
